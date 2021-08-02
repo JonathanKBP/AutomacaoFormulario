@@ -1,0 +1,2 @@
+testCreateUser,name,lastName,email,address,universidade,profile,gende,age,mensagemEsperada,Duration(ms)
+"",AAAJonathan,teste,jonathan@gmail.com,teste 501,Fatec Ipiranga,QA,Masculino,22,Usuário Criado com sucesso,4232.0
