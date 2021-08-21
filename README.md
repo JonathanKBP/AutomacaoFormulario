@@ -24,7 +24,7 @@ Foram utilizado os conceitos data-driven testing e page objects.
 ```bash
 
   #Clonar o repositório
-  $ git clone https://github.com/JonathanKBP/TestSeleniumWebDriver.git
+  $ git clone https://github.com/JonathanKBP/AutomacaoFormulario.git
 
 ```
 <p align="center">
